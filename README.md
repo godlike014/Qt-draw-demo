@@ -1,1 +1,1 @@
-# Qt-draw-demo
+# Qt-paintEx
